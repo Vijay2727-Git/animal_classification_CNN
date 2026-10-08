@@ -1,0 +1,4 @@
+filename,predicted_class,confidence,top3_predictions
+test_image.jpg,Tiger_images,99.97%,Tiger_images: 99.97%; Horse_images: 0.03%; Bear_images: 0.00%
+test_image_1.jpg,Horse_images,50.14%,Horse_images: 50.14%; Bear_images: 48.55%; Tiger_images: 1.31%
+test_image_2.jpg,Tiger_images,76.12%,Tiger_images: 76.12%; Bear_images: 18.97%; Horse_images: 4.91%
